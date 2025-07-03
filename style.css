@@ -1,0 +1,195 @@
+.head {
+margin: 40px;
+padding-left: 10px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: orangered;
+}
+.head2 {
+    font-size: 60px;
+    text-align: center;
+    padding-top: 40px;
+    opacity: 0;
+    transform: translateY(30px);
+    animation: fadeslidein 1s ease-out forwards;
+}
+
+
+.head4 {
+    font-size: 35px;
+    text-align: center;
+    /* padding-bottom: 30px; */
+}
+.head6 {
+    text-align: center;
+    font-size: 25px;
+    color: orangered;
+}
+.fontawesome1 {
+    text-align: center;
+    padding-top: 20px;
+}
+.trusted {
+    text-align: center;
+}
+.button1 {
+    background-color: orangered;
+    color: white;
+    /* border: 3px solid black; */
+    /* padding: 10px; */
+    font-size:19px;
+    border-radius: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 35px; padding-right: 35px;
+    cursor: pointer;
+    box-shadow: 0 10px 20px darkgrey;;
+}
+.button1:hover {
+    background-color: rgb(248, 69, 4);
+}
+.btn1 {
+    text-align: center;
+    padding-top: 20px;
+}
+.headeralaye {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.user1 {
+    margin: 20px;
+padding-left: 10px;
+}
+.story1 {
+    text-align: center;
+}
+
+.cardy1 {
+    background-color: orangered;
+    border-radius: 16px;
+    padding: 35px;
+    box-shadow: 0 10px 20px darkgrey;
+    backdrop-filter: blur(10px);
+    border: 1px solid darkgrey;
+    transition: transform 0.3s ease;
+    max-width: 80%;
+    margin: auto;
+    text-align: center;
+}
+.smallie {
+    font-size: 20px;
+}
+.edit {
+    font-size: 40px;
+}
+.container1 {
+    padding-top: 100px;
+}
+
+.cardy2 {
+    background-color: white;
+    border-radius: 16px;
+    padding: 40px;
+    box-shadow: 0 10px 20px darkgrey;
+    backdrop-filter: blur(10px);
+    border: 1px solid darkgrey;
+    transition: transform 0.3s ease;
+    max-width: 80%;
+    margin: auto;
+    text-align: center;
+}
+.container2 {
+    padding-top: 100px;
+}
+.smallie1 {
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.tailored1 {
+    font-size: 50px;
+    text-align: center;
+}
+.text101 {
+    font-size: 20px;
+    text-align: center;
+}
+.tailored2 {
+    text-align: center;
+    /* color: orangered; */
+}
+.tailored3 {
+    padding-top: 40px;
+}
+.ologo {
+    font-size: 40px;
+}
+
+.ogo {
+    text-align: center;
+    padding-top: 40px;
+}
+.allcontact {
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.contact-info {
+    text-align: center;
+    margin: 20px auto;
+  }
+  
+  .contact-info a {
+    display: inline-block;
+    margin: 0 10px;
+    color: #333;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  .contact-info i {
+    font-size: 30px;
+    margin-right: 10px;
+    vertical-align: middle;
+  }
+  
+  .contact-info .fa {
+    color: #25D366; 
+  }
+  
+
+  .contact-info2 {
+    text-align: center;
+    margin: 20px auto;
+  }
+  
+  .contact-info2 a {
+    display: inline-block;
+    margin: 0 10px;
+    color: #333;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  .contact-info2 i {
+    font-size: 30px;
+    margin-right: 10px;
+    vertical-align: middle;
+  }
+  .contact-info2 .fa {
+    color: #3498db; 
+  }
+  .map {
+    text-align: center;
+    padding-top: 60px;
+  }
+  .ss2 {
+    font-size: 25px;
+    text-align: center;
+    padding-top: 50px;
+  }
+.Banjithetechguy {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    /* color: orangered; */
+}
+  
