@@ -192,4 +192,6 @@ padding-left: 10px;
     text-align: center;
     /* color: orangered; */
 }
-  
+ body {
+    text-align: center;
+  }
